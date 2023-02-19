@@ -9,4 +9,4 @@ vim.keymap.set(
   { noremap = true, silent = true, desc = "Resume" }
 )
 
-vim.keymap.set("n", "<leader>fg", ":Neotree focus<CR>", { desc = "Neotree Focus" })
+vim.keymap.set("n", "<leader>n", ":Neotree focus<CR>", { desc = "Neotree Focus" })

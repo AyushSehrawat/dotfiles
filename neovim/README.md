@@ -1,4 +1,4 @@
-# Neovim
-Consider this folder as `~/.config/nvim`
+# 💤 LazyVim
 
-I have used the LazyVim with some additional configurations
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
