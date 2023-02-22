@@ -40,6 +40,8 @@ Installation of Kitty with some setup done!
 
 `kitty.conf` file is used to config kitty.
 
+Also install the fonts provided in the ttf folder for a better look and coding experience
+
 For more regarding key bindings and configuration check https://sw.kovidgoyal.net/kitty/overview/
 
 Theme used - https://github.com/catppuccin/kitty
