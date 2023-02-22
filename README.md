@@ -3,3 +3,5 @@ This repository consists of my dotfiles for some of the tools , the extensions I
 
 ## Preview
 ![preview_img](./assets/preview-22-02-2023.png)
+
+![desktop_preview_img](./assets/preview-desktop-22-02-2023.png)
