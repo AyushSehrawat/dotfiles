@@ -8,6 +8,7 @@ I manage all the extensions with 'Extension Manager' software on Ubuntu.
 - Caffeine - https://extensions.gnome.org/extension/517/caffeine/
 - Compiz windows effect - https://extensions.gnome.org/extension/3210/compiz-windows-effect/
 - Dash to Panel - https://extensions.gnome.org/extension/1160/dash-to-panel/
+- RunCat - https://extensions.gnome.org/extension/2986/runcat/
 
 
 ## Tweaks (Application in Gnome)
