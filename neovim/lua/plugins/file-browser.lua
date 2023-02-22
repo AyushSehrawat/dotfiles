@@ -6,7 +6,7 @@ return {
   },
   keys = {
     {
-      "<leader>sB",
+      "<leader>t",
       ":Telescope file_browser path=%:p:h<cr>",
       desc = "Browse Files",
     },
