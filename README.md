@@ -2,6 +2,7 @@
 This repository consists of my dotfiles for some of the tools , the extensions I used and also some tweaks.
 
 ## Preview
-![preview_img](./assets/preview-22-02-2023.png)
 
-![desktop_preview_img](./assets/preview-desktop-25-02-2023.png)
+![desktop_preview_img](./assets/preview_desktop.png)
+
+![preview_img](./assets/neovim.png)
