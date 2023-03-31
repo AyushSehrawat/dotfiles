@@ -1,4 +1,5 @@
 # Neovim Config
+
 This config uses the Lazyvim (https://www.lazyvim.org/) as the base , and then customizes it as per use.
 
 It also includes copilot and tailwindcss support. Also includes some custom key maps ( maybe more in future since i am not fan of pressing three keys to do some stuff )
