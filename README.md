@@ -2,6 +2,12 @@
 
 This repository consists of my dotfiles and extensions for my Fedora 38 and Ubuntu 22.04 setup.
 
+## Table of Contents
+
+- [Extensions](./extensions/README.md)
+- [Neovim](./neovim/README.md)
+- [Kitty](./kitty/README.md)
+
 ## Preview
 
 ### Fedora 38
