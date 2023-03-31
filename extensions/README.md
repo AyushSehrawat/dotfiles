@@ -45,11 +45,11 @@ I manage all the extensions with 'Extension Manager' software on Ubuntu.
 
 #### Appearance
 
-- Cursor: Vimix-white-cursors - [here](./Vimix-white-cursors/)
+- Cursor: Vimix-white-cursors - [here](https://github.com/vinceliuice/Vimix-cursors)
 - Icons: Reversal-red-dark - [here](https://github.com/yeyushengfan258/Reversal-icon-theme)
-- Shell: Catppuccin-Frappe-Purple - [here](./Catppuccin-Frappe-Purple/)
+- Shell: Catppuccin-Frappe-Purple - [here](https://github.com/catppuccin/gtk)
 - Sound: Yaru - [already in system](#)
-- Legacy Applications: Catppuccin-Frappe-Purple - [here](./Catppuccin-Frappe-Purple)
+- Legacy Applications: Catppuccin-Frappe-Purple - [here](https://github.com/catppuccin/gtk)
 
 #### Fonts
 
