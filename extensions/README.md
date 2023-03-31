@@ -1,5 +1,25 @@
 ## Extensions
 
+### VSCode Extensions
+
+- Catppuccin for VSCode
+- Catppuccin Icons for VSCode
+- Error Lens
+- ESLint
+- Github Copilot
+- Github Copilot Voice
+- Gitlens - Git supercharged
+- Go
+- Prettier - Code formatter
+- Python
+- rust-analyzer
+- Snippet - by vscode-snippet
+- Svelte 3 Snippets
+- Svelte for VSCode
+- Svelte Intellisense
+- Tailwind CSS IntelliSense
+- Thunder Client
+
 ### Fedora 38
 
 This section includes the extensions i use on my Fedora 38
