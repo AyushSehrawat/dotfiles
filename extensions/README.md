@@ -1,5 +1,18 @@
 ## Extensions
 
+Table of Contents
+
+- [VSCode Extensions](#vscode-extensions)
+- [Fedora 38](#fedora-38)
+- [Ubuntu 22.10](#ubuntu-22.10)
+  - [Tweaks (Application in Gnome)](#tweaks-application-in-gnome)
+  - [Appearance](#appearance)
+  - [Fonts](#fonts)
+  - [Startup Applications](#startup-applications)
+  - [Instructions](#instructions)
+  - [Extra Ubuntu Setup](#extra-ubuntu-setup)
+  - [Making passwordless sudo](#making-passwordless-sudo)
+
 ### VSCode Extensions
 
 - Catppuccin for VSCode
@@ -90,9 +103,9 @@ For applying theme and icons, you can check google. But in short it's putting th
 
 The above configurations are just the names , for better look you need to play with the values of extensions.
 
-## Extra Ubuntu Setup
+#### Extra Ubuntu Setup
 
-### Making passwordless sudo
+#### Making passwordless sudo
 
 - Edit sudoers file: `sudo nano /etc/sudoers` or `sudo visudo`
 - Find a line which contains `includedir /etc/sudoers.d`
